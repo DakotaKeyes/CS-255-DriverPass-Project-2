@@ -1,0 +1,31 @@
+
+
+Overview
+
+In this journal, you will make a submission to your portfolio. Remember that you will submit portfolio artifacts in different courses 
+throughout the Computer Science program. 
+You will also reflect on the work that you have done in these projects. 
+Reflecting will help add context to refresh your memory when you review your portfolio in the future.
+
+Prompt
+
+For this course, you will be submitting one portion of each project into the GitHub repository for your portfolio. 
+From Project One, submit the business requirements document. From Project Two, submit the system design document. 
+Together, these documents showcase your work in system analysis and design. These documents demonstrate your ability to collect requirements 
+from the customer and design a system that meets those needs.
+You will also reflect on the work that you have done in these projects. Reflecting is a valuable skill to cement your learning. 
+It also will help add context to refresh your memory when you use your portfolio in the future. 
+Update the README file in your repository and include your answers to each of the questions below. 
+You could include the questions and write a few sentences in response to each one, or you could write a paragraph 
+or two weaving together all of your answers.
+•	Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+•	What did you do particularly well?
+•	If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+•	How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+•	How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+Guidelines for Submission
+For your submission, include a link to your repository for your instructor in a text submission. Make sure your repository includes your 
+business requirements and system design documents as well as the README file with your written response. Use the CS GitHub Portfolio Tutorial 
+to help you with this submission. This journal will be graded pass/fail based on completion.
+Note: In the previous module, you should have added your instructor as a collaborator and they should have accepted your request. 
+Please email your instructor if you have trouble adding them as a collaborator.
